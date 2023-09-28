@@ -1,0 +1,12 @@
+
+(1 rows affected)
+                                        
+----------------------------------------
+                                    1000
+
+(1 rows affected)
+ProductID   Name                                               ProductNumber             Color           StandardCost          ListPrice             Size  Weight     ProductCategoryID ProductModelID SellStartDate           SellEndDate             DiscontinuedDate        ThumbNailPhoto ThumbnailPhotoFileName                             rowguid                              ModifiedDate           
+----------- -------------------------------------------------- ------------------------- --------------- --------------------- --------------------- ----- ---------- ----------------- -------------- ----------------------- ----------------------- ----------------------- -------------- -------------------------------------------------- ------------------------------------ -----------------------
+       1000 LED Lights                                         LT-L123                   NULL                           2.5600               12.9900 NULL        NULL                37           NULL 2023-09-28 19:33:36.600                    NULL                    NULL NULL           NULL                                               567A0468-7668-47FE-ACEE-A025C52C94CA 2023-09-28 19:33:36.600
+
+(1 rows affected)

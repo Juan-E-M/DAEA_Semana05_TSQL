@@ -1,0 +1,10 @@
+
+(1 rows affected)
+
+(2 rows affected)
+Category                                           Product                                           
+-------------------------------------------------- --------------------------------------------------
+Bells and Horns                                    Bicycle Bell                                      
+Bells and Horns                                    Bicycle Horn                                      
+
+(2 rows affected)
