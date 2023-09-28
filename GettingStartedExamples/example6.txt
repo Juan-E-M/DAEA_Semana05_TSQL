@@ -1,0 +1,11 @@
+/*
+Esta consulta devuelve un error. 
+Los + el operador puede ser utilizado para concatenar valores basados en 
+texto, o agregar valores numéricos; pero en este caso hay un valor numérico 
+(ProductID) y un valor basado en texto (Nombre), por lo que no está claro cómo 
+se debe aplicar el operador.
+*/
+
+Changed database context to 'adventureworks'.
+Msg 245, Level 16, State 1, Server fbeca27373f3, Line 1
+Conversion failed when converting the varchar value ': ' to data type int.

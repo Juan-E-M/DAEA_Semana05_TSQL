@@ -1,0 +1,14 @@
+/*
+devuelve un error porque algunos Talla los valores no son numéricos ( por 
+ejemplo, algunos tamaños de artículo se indican como S, METRO, o L).
+*/
+
+Changed database context to 'adventureworks'.
+Name                                               NumericSize
+-------------------------------------------------- -----------
+HL Road Frame - Black, 58                                   58
+HL Road Frame - Red, 58                                     58
+Sport-100 Helmet, Red                                     NULL
+Sport-100 Helmet, Black                                   NULL
+Msg 245, Level 16, State 1, Server fbeca27373f3, Line 1
+Conversion failed when converting the nvarchar value 'M' to data type int.
