@@ -1,0 +1,37 @@
+Changed database context to 'adventureworks'.
+SalesOrderID FreightCost           ShippingMethod                                    
+------------ --------------------- --------------------------------------------------
+       71774               22.0100 cargo transport 5                                 
+       71776                1.9700 cargo transport 5                                 
+       71780              960.4700 cargo transport 5                                 
+       71782              994.6300 cargo transport 5                                 
+       71783             2096.4600 cargo transport 5                                 
+       71784             2714.0500 cargo transport 5                                 
+       71796             1440.8700 cargo transport 5                                 
+       71797             1950.7400 cargo transport 5                                 
+       71815               28.5400 cargo transport 5                                 
+       71816               84.9500 cargo transport 5                                 
+       71831               50.4100 cargo transport 5                                 
+       71832              894.3800 cargo transport 5                                 
+       71845             1040.5500 cargo transport 5                                 
+       71846               61.3400 cargo transport 5                                 
+       71856               15.0500 cargo transport 5                                 
+       71858              345.5900 cargo transport 5                                 
+       71863               83.1100 cargo transport 5                                 
+       71867               26.4800 cargo transport 5                                 
+       71885               13.7600 cargo transport 5                                 
+       71895                6.1700 cargo transport 5                                 
+       71897              317.1500 cargo transport 5                                 
+       71898             1599.5200 cargo transport 5                                 
+       71899               60.3900 cargo transport 5                                 
+       71902             1851.4700 cargo transport 5                                 
+       71915               53.4300 cargo transport 5                                 
+       71917                1.0200 cargo transport 5                                 
+       71920               74.5200 cargo transport 5                                 
+       71923                2.6600 cargo transport 5                                 
+       71935              165.8600 cargo transport 5                                 
+       71936             2456.9700 cargo transport 5                                 
+       71938             2220.3200 cargo transport 5                                 
+       71946                 .9700 cargo transport 5                                 
+
+(32 rows affected)

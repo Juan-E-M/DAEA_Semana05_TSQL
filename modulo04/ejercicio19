@@ -1,0 +1,50 @@
+Changed database context to 'adventureworks'.
+Name                                               TotalRevenue                            
+-------------------------------------------------- ----------------------------------------
+Touring-1000 Blue, 60                                                          37191.492000
+Mountain-200 Black, 42                                                         37178.838000
+Road-350-W Yellow, 48                                                          36486.235500
+Mountain-200 Black, 38                                                         35801.844000
+Touring-1000 Yellow, 60                                                        23413.474656
+Touring-1000 Blue, 50                                                          22887.072000
+Mountain-200 Silver, 42                                                        20879.910000
+Road-350-W Yellow, 40                                                          20411.880000
+Mountain-200 Black, 46                                                         19277.916000
+Road-350-W Yellow, 42                                                          18692.519308
+Mountain-200 Silver, 46                                                        18095.922000
+Road-250 Black, 44                                                             17592.120000
+Road-250 Black, 48                                                             17592.120000
+Touring-1000 Blue, 46                                                          17165.304000
+Touring-1000 Yellow, 46                                                        17165.304000
+Mountain-200 Silver, 38                                                        15311.934000
+Touring-2000 Blue, 54                                                          13120.380000
+HL Mountain Frame - Silver, 38                                                 13099.200000
+Road-550-W Yellow, 38                                                          12773.586000
+Road-250 Black, 52                                                             11728.080000
+HL Mountain Frame - Black, 42                                                   9717.120000
+Touring-1000 Blue, 54                                                           8582.652000
+HL Mountain Frame - Silver, 46                                                  8187.000000
+Touring-2000 Blue, 60                                                           7289.100000
+HL Touring Frame - Yellow, 60                                                   7228.152000
+Touring-1000 Yellow, 50                                                         7152.210000
+Touring-2000 Blue, 46                                                           6560.190000
+Touring-2000 Blue, 50                                                           6560.190000
+Touring-1000 Yellow, 54                                                         5721.768000
+HL Mountain Frame - Black, 38                                                   5668.320000
+Road-550-W Yellow, 48                                                           5378.352000
+Road-550-W Yellow, 40                                                           5378.352000
+HL Road Frame - Black, 44                                                       5153.400000
+Road-350-W Yellow, 44                                                           5102.970000
+HL Mountain Frame - Silver, 42                                                  4912.200000
+Road-250 Black, 58                                                              4398.030000
+Road-250 Red, 58                                                                4398.030000
+HL Touring Frame - Blue, 54                                                     4216.422000
+Road-550-W Yellow, 42                                                           3361.470000
+HL Touring Frame - Yellow, 54                                                   3011.730000
+HL Road Frame - Red, 62                                                         2576.700000
+HL Road Frame - Red, 44                                                         2576.700000
+Road-550-W Yellow, 44                                                           2016.882000
+HL Touring Frame - Blue, 60                                                     1807.038000
+HL Touring Frame - Blue, 50                                                      602.346000
+
+(45 rows affected)
