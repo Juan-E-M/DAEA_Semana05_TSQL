@@ -1,0 +1,2 @@
+Msg 111, Level 15, State 1, Server 91c762b216f1, Procedure DisplayErrorDetails, Line 2
+'CREATE/ALTER PROCEDURE' must be the first statement in a query batch.

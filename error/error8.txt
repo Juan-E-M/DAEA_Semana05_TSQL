@@ -1,0 +1,3 @@
+Changed database context to 'adventureworks'.
+Msg 8134, Level 16, State 1, Server 91c762b216f1, Line 1
+Divide by zero error encountered.
