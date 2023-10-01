@@ -1,0 +1,6 @@
+Changed database context to 'adventureworks'.
+OrderNumber                   
+------------------------------
+SO71774                       
+
+(1 rows affected)

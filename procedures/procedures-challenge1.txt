@@ -1,0 +1,15 @@
+Changed database context to 'adventureworks'.
+name                                               listprice            
+-------------------------------------------------- ---------------------
+HL Mountain Tire                                                 35.0000
+HL Road Tire                                                     32.6000
+ML Mountain Tire                                                 29.9900
+Touring Tire                                                     28.9900
+LL Mountain Tire                                                 24.9900
+ML Road Tire                                                     24.9900
+LL Road Tire                                                     21.4900
+Mountain Tire Tube                                                4.9900
+Touring Tire Tube                                                 4.9900
+Road Tire Tube                                                    3.9900
+
+(10 rows affected)

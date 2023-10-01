@@ -1,0 +1,42 @@
+Changed database context to 'adventureworks'.
+Name                                               Red         Blue        Black       Silver      Yellow      Grey        Multi       Uncolored  
+-------------------------------------------------- ----------- ----------- ----------- ----------- ----------- ----------- ----------- -----------
+Bib-Shorts                                                   0           0           0           0           0           0           3           0
+Bike Racks                                                   0           0           0           0           0           0           0           1
+Bike Stands                                                  0           0           0           0           0           0           0           1
+Bottles and Cages                                            0           0           0           0           0           0           0           3
+Bottom Brackets                                              0           0           0           0           0           0           0           3
+Brakes                                                       0           0           0           2           0           0           0           0
+Caps                                                         0           0           0           0           0           0           1           0
+Chains                                                       0           0           0           1           0           0           0           0
+Cleaners                                                     0           0           0           0           0           0           0           1
+Cranksets                                                    0           0           3           0           0           0           0           0
+Derailleurs                                                  0           0           0           2           0           0           0           0
+Fenders                                                      0           0           0           0           0           0           0           1
+Forks                                                        0           0           0           0           0           0           0           3
+Gloves                                                       0           0           6           0           0           0           0           0
+Handlebars                                                   0           0           0           0           0           0           0           8
+Headsets                                                     0           0           0           0           0           0           0           3
+Helmets                                                      1           1           1           0           0           0           0           0
+Hydration Packs                                              0           0           0           1           0           0           0           0
+Jerseys                                                      0           0           0           0           4           0           4           0
+Lights                                                       0           0           0           0           0           0           0           3
+Locks                                                        0           0           0           0           0           0           0           1
+Mountain Bikes                                               0           0          16          16           0           0           0           0
+Mountain Frames                                              0           0          14          14           0           0           0           0
+Panniers                                                     0           0           0           0           0           1           0           0
+Pedals                                                       0           0           0           0           0           0           0           0
+Pumps                                                        0           0           0           0           0           0           0           2
+Road Bikes                                                  20           0          14           0           9           0           0           0
+Road Frames                                                 17           0          11           0           5           0           0           0
+Saddles                                                      0           0           0           0           0           0           0           9
+Shorts                                                       0           0           7           0           0           0           0           0
+Socks                                                        0           0           0           0           0           0           0           0
+Tights                                                       0           0           3           0           0           0           0           0
+Tires and Tubes                                              0           0           0           0           0           0           0          11
+Touring Bikes                                                0          13           0           0           9           0           0           0
+Touring Frames                                               0           9           0           0           9           0           0           0
+Vests                                                        0           3           0           0           0           0           0           0
+Wheels                                                       0           0          14           0           0           0           0           0
+
+(37 rows affected)
