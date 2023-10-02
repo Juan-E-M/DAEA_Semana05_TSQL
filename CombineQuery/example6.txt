@@ -1,0 +1,11 @@
+Changed database context to 'adventureworks'.
+
+(5 rows affected)
+
+(4 rows affected)
+Name                          
+------------------------------
+Camembert                     
+Smudge                        
+
+(2 rows affected)

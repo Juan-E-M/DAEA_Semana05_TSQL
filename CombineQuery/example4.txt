@@ -1,0 +1,3 @@
+Changed database context to 'adventureworks'.
+Msg 208, Level 16, State 1, Server fe66948e07b0, Line 1
+Invalid object name 'dbo.ProductSales'.
