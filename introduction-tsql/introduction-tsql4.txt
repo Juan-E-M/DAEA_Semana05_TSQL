@@ -1,0 +1,6 @@
+Changed database context to 'adventureworks'.
+employee                      
+------------------------------
+Keith Harris                  
+
+(1 rows affected)
