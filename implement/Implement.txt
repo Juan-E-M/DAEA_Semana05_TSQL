@@ -1,0 +1,7 @@
+Changed database context to 'adventureworks'.
+
+(1 rows affected)
+
+(1 rows affected)
+Msg 241, Level 16, State 1, Server 91c762b216f1, Line 7
+Conversion failed when converting date and/or time from character string.

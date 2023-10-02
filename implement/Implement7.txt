@@ -1,0 +1,10 @@
+Changed database context to 'adventureworks'.
+
+(1 rows affected)
+
+(1 rows affected)
+
+(0 rows affected)
+An error occurred.
+Transaction in process.
+Transaction rolled back.

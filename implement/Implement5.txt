@@ -1,0 +1,8 @@
+Changed database context to 'adventureworks'.
+
+(1 rows affected)
+
+(1 rows affected)
+Msg 2627, Level 14, State 1, Server 91c762b216f1, Line 9
+Violation of UNIQUE KEY constraint 'AK_CustomerAddress_rowguid'. Cannot insert duplicate key in object 'SalesLT.CustomerAddress'. The duplicate key value is (16765338-dbe4-4421-b5e9-3836b9278e63).
+The statement has been terminated.
